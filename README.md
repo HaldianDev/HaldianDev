@@ -1,7 +1,7 @@
 Hi everyone, I'm Haldian 👋
 
-- 🌱 I’m currently learning Golang
-- 💬 Ask me about Laravel
-- 📫 How to reach me ?? to instagram @haldianrnw 
-- ⚡ I'am a Back-end Developer, Data Science, Data Engineer
+- 🌱 I’m currently learning grow
+- 📫 How to reach me ?? to instagram @haldianrnw
+- 📒 Blog ?? to https://medium.com/@haldian 
+- ⚡ I'am a Cybersecurity, Network Security & Back-end Developer
 
